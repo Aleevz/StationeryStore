@@ -1,0 +1,17 @@
+A1,Lapiz,12.5,100
+A2,Pluma Negra,15,100
+A3,Pluma Roja, 15, 100
+A4,Colores,48.5,100
+A5,Cuaderno Raya,67.5,100
+A6,Cuaderno Cuadros,67.5,100
+A7,Borrador,10,100
+A8,Sacapuntas,16.5,100
+A9,Marcatextos,23.5,100
+A10,Regla,18.5,100
+B1,Corrector,24.5,100
+B2,Agenda,250,100
+B3,Calculadora,450,100
+B4,Estuche,55.5,100
+B5,Mochila,279,100
+B6,Tijeras,30.5,100
+B7,Resistol,27.5,100
